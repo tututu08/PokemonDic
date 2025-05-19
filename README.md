@@ -9,7 +9,7 @@
 
 |              메인화면              |                디테일화면               |
 | :----------------------------: | :--------------------------------: |
-| ![main](./screenshot_main.png) | ![detail](./screenshot_detail.png) |
+| ![main](./image/main.png) | ![detail](./image/detail.png) |
 
 ---
 
