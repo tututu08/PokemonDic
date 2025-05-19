@@ -9,7 +9,7 @@
 
 |              메인화면              |                디테일화면               |
 | :----------------------------: | :--------------------------------: |
-| <img src="image/main.png width="200" height="400"/> | <img src="image/detail.png width="200" height="400"/> |
+| <img src="image/main.png" width ="200" height="400"/> | <img src="image/detail.png" width="200" height="400"/> |
 
 ---
 
