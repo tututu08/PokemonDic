@@ -90,11 +90,3 @@ PokemonDic/
 * 검색 기능 추가
 * iPad 대응 레이아웃
 * 다크모드 대응
-
----
-
-## 제작자
-
-* GitHub: [github.com/kangsunghun](https://github.com/kangsunghun)
-* 이메일: [kangsunghun@example.com](mailto:kangsunghun@example.com)
-* 프로젝트 기간: 2025.05.15 \~ 2025.05.19
